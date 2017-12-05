@@ -26,8 +26,8 @@ provider:
   region: ap-south-1
 	
   credentials:
-    accessKeyId: AKIAJEE7NSPO43UMVBQA
-    secretAccessKey: 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
+    accessKeyId: 
+    secretAccessKey: 
   deploymentBucket:
     name: compress10
 # you can add statements to the Lambda function's IAM Role here
